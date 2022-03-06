@@ -44,3 +44,13 @@ Some more scenarios can be added to each of the page and categorised into regres
 		stepNotifications = true
 		)
 ```
+
+## Reports
+
+![](img/2022-03-07-01-11-37.png)
+
+![](img/2022-03-07-01-12-14.png)
+
+![](img/2022-03-07-01-13-20.png)
+
+![](img/2022-03-07-01-13-54.png)
