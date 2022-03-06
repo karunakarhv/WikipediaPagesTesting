@@ -6,7 +6,7 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		features = {"classpath:com/qa/features/"}, 
+		features = {"classpath:com/qa/features/"},
 		glue = {"com.qa.stepDefinitions" }, // the path of the step definition files
 		plugin = { "pretty", "html:target/cucumber-reports.html" },
 //		tags = "@smoke",
@@ -14,7 +14,7 @@ import org.junit.runner.RunWith;
 		dryRun = false,
 		stepNotifications = true
 		)
-
+//Test Runner Class
 public class TestRunner {
 
 }
