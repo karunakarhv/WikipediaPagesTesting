@@ -6,7 +6,7 @@
 
 3.	Create a New Maven Project – All of the dependencies are added in pom.xml
 
-4.	Since we are developing the code using Page Object Model Design Pattern, we are using the below strategy for our code:
+4.	The code structure used here is Page Object Model Design Pattern, hence the below structure of the code:
 
     i.	Create a package com.qa.config and under this create a file config.properties – where your browser name, url, username     and  password are defined
 
